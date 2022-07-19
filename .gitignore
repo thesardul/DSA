@@ -1,7 +1,3 @@
 out
-
-*.class
-
-.DS_store
-
-.idea/*
+.idea
+.DS_Store

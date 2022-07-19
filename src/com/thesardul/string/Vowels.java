@@ -1,4 +1,4 @@
-package com.thesardul;
+package com.thesardul.string;
 
 import java.util.ArrayList;
 import java.util.Arrays;
